@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=FPC Member=J16
+Removed Member From Class: ClassName=FPC Member=J17
+Removed Member From Class: ClassName=FPC Member=J18
+Change Component Designator: OldDesignator=J17 NewDesignator=J15
+Added Member To Class: ClassName=FPC Member=Component J4 Pad
+Added Room: Name=FPC

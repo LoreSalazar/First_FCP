@@ -1,0 +1,35 @@
+Added Component: Designator=J2(PCBComponent_1)
+Added Component: Designator=J3(PCBComponent_1)
+Added Component: Designator=J4(PCBComponent_1)
+Added Component: Designator=J5(PCBComponent_1)
+Added Component: Designator=J6(PCBComponent_1)
+Added Component: Designator=J7(PCBComponent_1)
+Added Component: Designator=J8(PCBComponent_1)
+Added Component: Designator=J9(PCBComponent_1)
+Added Component: Designator=J10(PCBComponent_1)
+Added Component: Designator=J11(PCBComponent_1)
+Added Component: Designator=J12(PCBComponent_1)
+Added Component: Designator=J13(PCBComponent_1)
+Added Component: Designator=J14(PCBComponent_1)
+Added Component: Designator=J15(PCBComponent_1)
+Added Component: Designator=J16(PCBComponent_1)
+Added Component: Designator=J17(PCBComponent_1)
+Added Component: Designator=J18(PCBComponent_1)
+Added Member To Class: ClassName=FPC Member=Component J2 Pad
+Added Member To Class: ClassName=FPC Member=Component J3 Pad
+Added Member To Class: ClassName=FPC Member=Component J4 Pad
+Added Member To Class: ClassName=FPC Member=Component J5 Pad
+Added Member To Class: ClassName=FPC Member=Component J6 Pad
+Added Member To Class: ClassName=FPC Member=Component J7 Pad
+Added Member To Class: ClassName=FPC Member=Component J8 Pad
+Added Member To Class: ClassName=FPC Member=Component J9 Pad
+Added Member To Class: ClassName=FPC Member=Component J10 Pad
+Added Member To Class: ClassName=FPC Member=Component J11 Pad
+Added Member To Class: ClassName=FPC Member=Component J12 Pad
+Added Member To Class: ClassName=FPC Member=Component J13 Pad
+Added Member To Class: ClassName=FPC Member=Component J14 Pad
+Added Member To Class: ClassName=FPC Member=Component J15 Pad
+Added Member To Class: ClassName=FPC Member=Component J16 Pad
+Added Member To Class: ClassName=FPC Member=Component J17 Pad
+Added Member To Class: ClassName=FPC Member=Component J18 Pad
+Added Room: Name=FPC

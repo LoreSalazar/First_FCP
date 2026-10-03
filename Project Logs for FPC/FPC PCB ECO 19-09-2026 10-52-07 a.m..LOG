@@ -1,0 +1,107 @@
+Added Component: Designator=J16(324921046)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2492104&DocType=Customer%20Drawing&DocLang=English&DocFormat=pdf&PartCntxt=3-2492104-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "3-2492104-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J16-31
+Added Pin To Net: NetName=GND Pin=J16-32
+Added Pin To Net: NetName=GND Pin=J16-33
+Added Pin To Net: NetName=GND Pin=J16-34
+Added Pin To Net: NetName=GND Pin=J16-35
+Added Pin To Net: NetName=GND Pin=J16-36
+Added Net: Name=GND
+Added Pin To Net: NetName=Signal1+ Pin=J1-1
+Added Pin To Net: NetName=Signal1+ Pin=J16-1
+Added Net: Name=Signal1+
+Added Pin To Net: NetName=Signal1- Pin=J1-2
+Added Pin To Net: NetName=Signal1- Pin=J16-2
+Added Net: Name=Signal1-
+Added Pin To Net: NetName=Signal2+ Pin=J2-1
+Added Pin To Net: NetName=Signal2+ Pin=J16-3
+Added Net: Name=Signal2+
+Added Pin To Net: NetName=Signal2- Pin=J2-2
+Added Pin To Net: NetName=Signal2- Pin=J16-4
+Added Net: Name=Signal2-
+Added Pin To Net: NetName=Signal3+ Pin=J3-1
+Added Pin To Net: NetName=Signal3+ Pin=J16-5
+Added Net: Name=Signal3+
+Added Pin To Net: NetName=Signal3- Pin=J3-2
+Added Pin To Net: NetName=Signal3- Pin=J16-6
+Added Net: Name=Signal3-
+Added Pin To Net: NetName=Signal4+ Pin=J4-1
+Added Pin To Net: NetName=Signal4+ Pin=J16-7
+Added Net: Name=Signal4+
+Added Pin To Net: NetName=Signal4- Pin=J4-2
+Added Pin To Net: NetName=Signal4- Pin=J16-8
+Added Net: Name=Signal4-
+Added Pin To Net: NetName=Signal5+ Pin=J5-1
+Added Pin To Net: NetName=Signal5+ Pin=J16-9
+Added Net: Name=Signal5+
+Added Pin To Net: NetName=Signal5- Pin=J5-2
+Added Pin To Net: NetName=Signal5- Pin=J16-10
+Added Net: Name=Signal5-
+Added Pin To Net: NetName=Signal6+ Pin=J6-1
+Added Pin To Net: NetName=Signal6+ Pin=J16-11
+Added Net: Name=Signal6+
+Added Pin To Net: NetName=Signal6- Pin=J6-2
+Added Pin To Net: NetName=Signal6- Pin=J16-12
+Added Net: Name=Signal6-
+Added Pin To Net: NetName=Signal7+ Pin=J7-1
+Added Pin To Net: NetName=Signal7+ Pin=J16-13
+Added Net: Name=Signal7+
+Added Pin To Net: NetName=Signal7- Pin=J7-2
+Added Pin To Net: NetName=Signal7- Pin=J16-14
+Added Net: Name=Signal7-
+Added Pin To Net: NetName=Signal8+ Pin=J8-1
+Added Pin To Net: NetName=Signal8+ Pin=J16-15
+Added Net: Name=Signal8+
+Added Pin To Net: NetName=Signal8- Pin=J8-2
+Added Pin To Net: NetName=Signal8- Pin=J16-16
+Added Net: Name=Signal8-
+Added Pin To Net: NetName=Signal9+ Pin=J9-1
+Added Pin To Net: NetName=Signal9+ Pin=J16-17
+Added Net: Name=Signal9+
+Added Pin To Net: NetName=Signal9- Pin=J9-2
+Added Pin To Net: NetName=Signal9- Pin=J16-18
+Added Net: Name=Signal9-
+Added Pin To Net: NetName=Signal10+ Pin=J10-1
+Added Pin To Net: NetName=Signal10+ Pin=J16-19
+Added Net: Name=Signal10+
+Added Pin To Net: NetName=Signal10- Pin=J10-2
+Added Pin To Net: NetName=Signal10- Pin=J16-20
+Added Net: Name=Signal10-
+Added Pin To Net: NetName=Signal11+ Pin=J11-1
+Added Pin To Net: NetName=Signal11+ Pin=J16-21
+Added Net: Name=Signal11+
+Added Pin To Net: NetName=Signal11- Pin=J11-2
+Added Pin To Net: NetName=Signal11- Pin=J16-22
+Added Net: Name=Signal11-
+Added Pin To Net: NetName=Signal12+ Pin=J12-1
+Added Pin To Net: NetName=Signal12+ Pin=J16-23
+Added Net: Name=Signal12+
+Added Pin To Net: NetName=Signal12- Pin=J12-2
+Added Pin To Net: NetName=Signal12- Pin=J16-24
+Added Net: Name=Signal12-
+Added Pin To Net: NetName=Signal13+ Pin=J13-1
+Added Pin To Net: NetName=Signal13+ Pin=J16-25
+Added Net: Name=Signal13+
+Added Pin To Net: NetName=Signal13- Pin=J13-2
+Added Pin To Net: NetName=Signal13- Pin=J16-26
+Added Net: Name=Signal13-
+Added Pin To Net: NetName=Signal14+ Pin=J14-1
+Added Pin To Net: NetName=Signal14+ Pin=J16-27
+Added Net: Name=Signal14+
+Added Pin To Net: NetName=Signal14- Pin=J14-2
+Added Pin To Net: NetName=Signal14- Pin=J16-28
+Added Net: Name=Signal14-
+Added Pin To Net: NetName=Signal15+ Pin=J15-1
+Added Pin To Net: NetName=Signal15+ Pin=J16-29
+Added Net: Name=Signal15+
+Added Pin To Net: NetName=Signal15- Pin=J15-2
+Added Pin To Net: NetName=Signal15- Pin=J16-30
+Added Net: Name=Signal15-
+Added Member To Class: ClassName=FPC Member=Component J15 Pad
+Added Member To Class: ClassName=FPC Member=Component J16 3-2492104-6
+Added Room: Name=FPC
